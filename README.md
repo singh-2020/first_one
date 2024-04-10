@@ -1,2 +1,3 @@
 # first_one
-This is my first repository
+This is my first repository.
+Author- Manish Singh
